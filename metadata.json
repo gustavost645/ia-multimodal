@@ -1,0 +1,6 @@
+{
+  "name": "Benoit Casa Viva - Simulador de Ambientes com IA",
+  "description": "Visualizador inteligente de móveis e eletrodomésticos da Benoit no ambiente real do usuário através de IA Multimodal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
